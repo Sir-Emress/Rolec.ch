@@ -1,0 +1,21 @@
+<style>
+    body {
+        margin: 0;
+        padding: 0;
+        background-image: url('IMG-20220829-WA0014.jpg');
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        font-family: Arial, sans-serif;
+    }
+
+    /* Add additional styling for your content here */
+    /* For example: */
+    .content {
+        padding: 20px;
+        color:black
+      
+      
+      ;
+    }
+</style>
